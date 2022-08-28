@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrithivRaaj
+- 👋 Hi, I’m @Prithiv Raaj
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning B.Tech Artificial Intelligence and Data Science
 - 💞️ I’m looking to collaborate on ...
